@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "YES",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T15:17:53.203916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(Do You Love Me) Just Say Yes",
+      "artist": "Highway 101",
+      "has_synced": true,
+      "path": "select/01_(Do_You_Love_Me)_Just_Say_Yes_Highway_101.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Check Yes Or No",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Check_Yes_Or_No_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Check Yes Or No (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Check_Yes_Or_No_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Take That As a Yes (The Hot Tub Song)",
+      "artist": "Phil Vassar",
+      "has_synced": true,
+      "path": "select/04_I'll_Take_That_As_a_Yes_(The_Hot_Tub_Song)_Phil_Vassar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yes, Mr. Peters",
+      "artist": "Roy Drusky",
+      "has_synced": false,
+      "path": "select/05_Yes,_Mr._Peters_Roy_Drusky.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yes!",
+      "artist": "Chad Brock",
+      "has_synced": false,
+      "path": "select/06_Yes!_Chad_Brock.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yes! (Album Version)",
+      "artist": "Chad Brock",
+      "has_synced": false,
+      "path": "select/07_Yes!_(Album_Version)_Chad_Brock.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yes",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/08_Yes_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Say Yes",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/09_Say_Yes_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yes Sir, I Can Boogie",
+      "artist": "Fünf Sterne Deluxe",
+      "has_synced": false,
+      "path": "select/10_Yes_Sir,_I_Can_Boogie_Fünf_Sterne_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yes I Am",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/11_Yes_I_Am_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yes I Am",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/12_Yes_I_Am_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yes I know",
+      "artist": "Memory Tapes",
+      "has_synced": false,
+      "path": "select/13_Yes_I_know_Memory_Tapes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yes I Need My Generator",
+      "artist": "Turnstile feat. Mall Grab",
+      "has_synced": true,
+      "path": "select/14_Yes_I_Need_My_Generator_Turnstile_feat._Mall_Grab.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Yes I Need My Generator",
+      "artist": "Turnstile & Mall Grab",
+      "has_synced": true,
+      "path": "select/15_Yes_I_Need_My_Generator_Turnstile_&_Mall_Grab.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YES",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_YES_サンボマスター.txt"
+    }
+  ]
+}
